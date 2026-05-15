@@ -1,0 +1,36 @@
+<mxfile host="Electron" pages="2">
+  <diagram name="Logo - light" id="HrnvMyB7kwhLuBkxY1Mw">
+    <mxGraphModel dx="1204" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2iSf_AQ2bexJ2LQw5uFo-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="240" width="320" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2iSf_AQ2bexJ2LQw5uFo-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=19.62;fillColor=#000000;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2iSf_AQ2bexJ2LQw5uFo-3" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.5;endAngle=0.6783685328255156;arcWidth=0.23;fillColor=#000000;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="200" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p44W_w9r5fbPDmyDqN0P" name="Logo - dark">
+    <mxGraphModel dx="1204" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7s4rm45rjvtrmI_2Vewz-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="240" width="320" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7s4rm45rjvtrmI_2Vewz-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=19.62;fillColor=#FFFFFF;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7s4rm45rjvtrmI_2Vewz-3" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.5;endAngle=0.6783685328255156;arcWidth=0.23;fillColor=#FFFFFF;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="200" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
