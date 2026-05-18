@@ -21,8 +21,9 @@ echo "Exporting PNGs..."
 "$DRAWIO" --export --format png --crop --transparent --page-index 1 --output logo/q-light.png "$SRC"
 
 echo "Generating favicons..."
-magick logo/q-dark.png -resize 32x32 favicon/favicon-32.png
-magick logo/q-dark.png -resize 16x16 favicon/favicon-16.png
+# Crop to square (center, trim left/right) before resizing to avoid distortion
+magick logo/q-dark.png -gravity Center -crop 240x240+0+0 +repage -resize 32x32 favicon/favicon-32.png
+magick logo/q-dark.png -gravity Center -crop 240x240+0+0 +repage -resize 16x16 favicon/favicon-16.png
 magick favicon/favicon-16.png favicon/favicon-32.png favicon/favicon.ico
 
 echo "Done."
